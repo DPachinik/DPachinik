@@ -2,21 +2,20 @@
 
 **Desarrollador FullStack**
 
-**🚀 Apasionado por el desarrollo fullstack y el aprendizaje continuo en tecnologías modernas. 💻**
+**🚀 Programador fullstack comprometido con el crecimiento profesional a través del aprendizaje continuo de tecnologías modernas. 💻**
 
-### 🛠️ Tecnologías que domino:  
+### 🛠️ Tecnologías Principales:
+- **HTML**  
+- **CSS**
 - **JavaScript**  
 - **React**  
-- **HTML**  
-- **CSS**  
-
-### 📚 Conocimientos intermedios:  
+- **Tailwind CSS**  
 - **TypeScript**  
-- **Jest**  
-- **Prisma** 
-
+  
 ### 🌱 Actualmente aprendiendo:  
-- **Next.js**  
+- **Next.js** 
+- **Prisma** 
+- **Jest** 
 
 [![Gmail](    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pachinikfullstack@gmail.com)
 
