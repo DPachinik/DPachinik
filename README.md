@@ -1,10 +1,12 @@
 <h1 align="center"><b>Hola, Soy David Pachinik </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://github.com/DPachinik/DPachinik/blob/main/Gemini_Generated_Image_xl55m9xl55m9xl55%20(1).png">
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 **🚀 Cambié los planos por el código, pero mantengo la misma pasión por crear estructuras que funcionen.
 Como Desarrollador Frontend, mi enfoque actual es construir interfaces modernas y eficientes utilizando las últimas tecnologías web. 
-Un buen mate 🧉 y una laptop💻  son mis herramientas esenciales para convertir cada proyecto en una experiencia digital de calidad✨.**
+Un buen Tere 🧉 y una laptop💻 son mis herramientas esenciales para convertir cada proyecto en una experiencia digital de calidad✨.**
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 - **React**
