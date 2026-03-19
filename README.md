@@ -7,7 +7,7 @@
 Como Desarrollador Frontend, mi enfoque actual es construir interfaces modernas y eficientes utilizando las últimas tecnologías web. 
 Un buen Tere 🧉 y una laptop💻 son mis herramientas esenciales para convertir cada proyecto en una experiencia digital de calidad✨.**
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+##<picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"></picture><b> Skills</b>
 - **React**
 - **Next.js** 
 - **TypeScript**
