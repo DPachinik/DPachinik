@@ -2,20 +2,21 @@
 <img src="https://github.com/DPachinik/DPachinik/blob/main/Gemini_Generated_Image_xl55m9xl55m9xl55%20(1).png">
 
 
-**🚀 Programador FrontEnd comprometido con el crecimiento profesional a través del aprendizaje continuo de tecnologías modernas.💻**
+**🚀 Cambié los planos por el código, pero mantengo la misma pasión por crear estructuras que funcionen.
+Como Desarrollador Frontend, mi enfoque actual es construir interfaces modernas y eficientes utilizando las últimas tecnologías web. 
+Un buen mate 🧉 y una laptop💻  son mis herramientas esenciales para convertir cada proyecto en una experiencia digital de calidad✨.**
 
-### 🛠️ Tecnologías Principales:
-- **HTML**  
-- **CSS**
-- **JavaScript**  
-- **React**  
-- **Tailwind CSS**  
-- **TypeScript**  
-  
-### 🌱 Actualmente aprendiendo:  
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+- **React**
 - **Next.js** 
-- **Prisma** 
+- **TypeScript**
+- **JavaScript**  
+- **HTML5**  
+- **CSS3**
+- **Tailwind CSS**
 - **Jest** 
+
+  
 
 [![Gmail](    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pachinikfullstack@gmail.com)
 
