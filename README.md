@@ -18,10 +18,6 @@ Un buen Tere 🧉 y una laptop💻 son mis herramientas esenciales para converti
 - **Tailwind CSS**
 - **Jest** 
 
-  
-
-[![Gmail](    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pachinikfullstack@gmail.com)
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DPachinik&show_icons=true&theme=dracula)
@@ -47,3 +43,4 @@ Un buen Tere 🧉 y una laptop💻 son mis herramientas esenciales para converti
 
 ### 🤝 ¡Colaboremos!  
 Siempre estoy abierto a aprender, compartir ideas y trabajar en proyectos interesantes.
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pachinikfullstack@gmail.com)
