@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hola, Soy David Pachinik </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/DPachinik/DPachinik/blob/main/Gemini_Generated_Image_xl55m9xl55m9xl55%20(1).png">
 
 
 **🚀 Programador FrontEnd comprometido con el crecimiento profesional a través del aprendizaje continuo de tecnologías modernas.💻**
