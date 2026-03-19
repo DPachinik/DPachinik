@@ -3,7 +3,6 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 **🚀 Cambié los planos por el código, pero mantengo la misma pasión por crear estructuras que funcionen.
 Como Desarrollador Frontend, mi enfoque actual es construir interfaces modernas y eficientes utilizando las últimas tecnologías web. 
 Un buen Tere 🧉 y una laptop💻 son mis herramientas esenciales para convertir cada proyecto en una experiencia digital de calidad✨.**
@@ -43,4 +42,5 @@ Un buen Tere 🧉 y una laptop💻 son mis herramientas esenciales para converti
 
 ### 🤝 ¡Colaboremos!  
 Siempre estoy abierto a aprender, compartir ideas y trabajar en proyectos interesantes.
+<br/>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pachinikfullstack@gmail.com)
