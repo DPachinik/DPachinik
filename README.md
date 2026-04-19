@@ -12,8 +12,8 @@ Un buen Tere 🧉 y una laptop💻 son mis herramientas esenciales para converti
  
  **Frontend**
  
-• Next.js
-• React
+• -Next.js
+• -React
 • TypeScript  
 • CSS3
 • Tailwind CSS
