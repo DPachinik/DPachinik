@@ -3,19 +3,17 @@
 
 ## 👨‍💻</picture> Sobre mi
 
-**🚀 Cambié los planos por el código, pero mantengo la misma pasión por crear estructuras que funcionen.
+🚀 Cambié los planos por el código, pero mantengo la misma pasión por crear estructuras que funcionen.
 Como Desarrollador Frontend, mi enfoque actual es construir interfaces modernas y eficientes utilizando las últimas tecnologías web. 
-Un buen Tere 🧉 y una laptop💻 son mis herramientas esenciales para convertir cada proyecto en una experiencia digital de calidad✨.**
+Un buen Tere 🧉 y una laptop💻 son mis herramientas esenciales para convertir cada proyecto en una experiencia digital de calidad✨.
 
-<picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"></picture> Skills
-- **React**
-- **Next.js** 
-- **TypeScript**
-- **JavaScript**  
-- **HTML5**  
-- **CSS3**
-- **Tailwind CSS**
-- **Jest** 
+ <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"></picture> **Stack Principal**
+- Next.js
+- React
+- TypeScript  
+- CSS3
+- Tailwind CSS
+- Jest
 
 
 
