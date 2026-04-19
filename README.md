@@ -7,30 +7,26 @@
 Como Desarrollador Frontend, mi enfoque actual es construir interfaces modernas y eficientes utilizando las últimas tecnologías web. 
 Un buen Tere 🧉 y una laptop💻 son mis herramientas esenciales para convertir cada proyecto en una experiencia digital de calidad✨.
 
- ## 🚀**Stack Principal**
-<div>
- 
- **Frontend**
- 
-• -Next.js
-• -React
-• TypeScript  
-• CSS3
-• Tailwind CSS
-• Jest
- 
-**Backend**
- • Node
- • Express
+## 🚀 **Stack Principal**
 
-**Base de Datos**
- • PostgreSql
- • Mongo DB
+**Frontend**<br>
+• Next.js<br>
+• React<br>
+• TypeScript<br>
+• CSS3<br>
+• Tailwind CSS<br>
+• Jest<br>
 
- **BaaS**
- • Firebase
+**Backend**<br>
+• Node<br>
+• Express<br>
 
+**Base de Datos**<br>
+• PostgreSql<br>
+• Mongo DB<br>
 
+**BaaS**<br>
+• Firebase<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DPachinik&show_icons=true&theme=dracula)
